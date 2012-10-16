@@ -1,4 +1,4 @@
-This should be a level 1 header. Does it need to be fully underlined?
+This should be a level 1 header. It doesn't need to be fully underlined with equals signs.
 =================
 
 # Is this also a level 1 header?
